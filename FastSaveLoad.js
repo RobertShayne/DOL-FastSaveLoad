@@ -17,6 +17,10 @@ document.addEventListener('keydown', function(event) {
             saveName: "fastsave",
             ironman: V.ironmanmode,
         });
+		if(success)
+		{
+			Save.slots.load(_slot);
+		}
         //alert("success");
     }
 });
