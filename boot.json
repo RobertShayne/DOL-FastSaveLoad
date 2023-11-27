@@ -1,0 +1,15 @@
+{
+  "name": "FastSaveLoad",
+  "version": "0.1.0",
+  "styleFileList": [
+  ],
+  "scriptFileList": [
+	"FastSaveLoad.js"
+  ],
+  "tweeFileList": [
+  ],
+  "imgFileList": [
+  ],
+  "additionFile": [
+  ]
+}
